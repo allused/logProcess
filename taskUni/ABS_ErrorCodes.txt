@@ -1,0 +1,264 @@
+100*Mérés vége
+101*Vészstop benyomva v. nincs alaphelyzet
+102*Készülékleürítés benyomva!
+103*Programstop
+104*Nullpont hiba!
+301*Beszorítási hiba
+302*MDB oldáshiba! (henger alaphelyzet)
+105*Betápnyomás nem megfelelõ
+106*Beállítási idõ lejárt
+107*Leürítési hiba
+510*Feltöltési hiba (túlvezérlés)
+511*Feltöltési hiba (pmin)
+512*Feltöltési hiba
+303*Digital I/O timeout
+304*DeviceNet nincs megfelelõen konfigurálva
+108*RfID írás/olvasás hiba
+305*MH7 Lift EJA nem jelez
+306*MH7 Lift HJA nem jelez
+307*MH5 paletta rögzítõ JA nem jelez
+308*MH4 paletta lenyomó JA nem jelez
+309*MH1, MH2, vagy MH3 JA nem jelez
+310*Tesztpad ajtó nyitva van
+109*Állomás stopper JA nem jelez
+110*Állomás puffer stopper JA folyamatosan jelez
+111*K5MH2 jeladó nem jelez
+311*Csavarozó 1. pozícionáló asztal hiba
+312*Csavarozó 1. pozícionáló nem üzemkész
+112*Pad Dummy: Együttfutás hiba M2!
+113*Pad Dummy: Együttfutás hiba 1RD1!
+114*Pad Dummy: Együttfutás hiba 2RD2!
+115*L1_1 EJA nem jelez
+116*L1_3 EJA nem jelez
+117*L1_4 EJA nem jelez
+118*L3_1 EJA nem jelez
+119*L3_2 EJA nem jelez
+120*L3_3 EJA nem jelez
+121*L3_4 EJA nem jelez
+122*L4_1 EJA nem jelez
+123*L4_3 EJA nem jelez
+124*L4_4 EJA nem jelez
+125*L6_1 EJA nem jelez
+126*L6_2 EJA nem jelez
+127*L6_3 EJA nem jelez
+128*L6_4 EJA nem jelez
+129*K1MH1 - CS1 EJA nem jelez
+130*K5MH2 - Rugó fordít EJA nem jelez
+131*K5MH3 - Rugó Leszorít EJA nem jelez
+132*K2MH1 - Szilikonozó EJA nem jelez
+133*K3MH1 - CAM1 EJA nem jelez
+134*K4MH1 - 1. M.hely EJA nem jelez
+135*K5MH1 - RMH EJA nem jelez
+136*K6MH1 - Printer EJA nem jelez
+137*K6MH2 - Printer EJA nem jelez
+138*K7MH1 - CS2 EJA nem jelez
+139*K11MH3 - CS3 EJA nem jelez
+140*K8MH1 - CAM2 EJA nem jelez
+141*K9MH1 - 2. M.hely EJA nem jelez
+313*Nem esett ki a rugó a belsõ adagolófejbõl
+314*Nem esett ki a rugó a külsõ adagolófejbõl
+315*Rugóadagoló alaphelyzet hiba
+316*Nem lehet rugót adagolni a külsõ adagolófejbe
+317*OMH7 - FJA nem jelez
+318*OMH7 - AJA nem jelez
+319*OMH8 - KJA nem jelez
+320*OMH8 - BJA nem jelez
+321*PMH1 - Forgat FJA nem jelez
+322*PMH1 - Forgat AJA nem jelez
+323*PMH2 - Indít EJA nem jelez
+324*PMH3 - Fej EJA nem jelez
+325*PH1 - Vákuum JA nem jelez
+326*Áthordó 1 JA folyamatosan jelez
+327*Áthordó 3 JA folyamatosan jelez
+328*Áthordó 4 JA folyamatosan jelez
+329*Áthordó 6 JA folyamatosan jelez
+142*S1 - L1 puffer JA folyamatosan jelez
+143*S2 - Új MDB JA folyamatosan jelez
+144*S3 - CAM1 JA folyamatosan jelez
+145*S4 - MDB levétel JA folyamatosan jelez
+146*S5 - 1. M.hely JA folyamatosan jelez
+147*S6 - 3. Áthordó puffer JA folyamatosan jelez
+148*S7 - Printer JA folyamatosan jelez
+149*S8 - 4. Áthordó puffer JA folyamatosan jelez
+150*S9 - Printer puffer JA folyamatosan jelez
+151*S11 - CS2 puffer JA folyamatosan jelez
+152*S12 - CAM2 JA folyamatosan jelez
+153*S13 - CS2 JA folyamatosan jelez
+154*S14 - CAM2 puffer JA folyamatosan jelez
+155*S15 - 2. M.hely JA folyamatosan jelez
+156*S16 - 6. Áthordó puffer JA folyamatosan jelez
+157*S18 - RMH JA folyamatosan jelez
+158*S19 - CS1 JA folyamatosan jelez
+330*1. Csavarozó szár nem megy alaphelyzetbe
+209*1. Csavarozó szár nem megy véghelyzetbe
+3593*CS1: Sikertelen csavarozás (1.)
+332*Olajzó hibát jelez
+159*S5 - 1. M.hely JA nem jelez
+333*1. Cs.adagoló Csõ 1 HJA nem jelez
+334*1. Cs.adagoló Csõ 1 EJA nem jelez
+335*1. Cs.adagoló átálló MH JA nem jelez
+197*1. CS.adagoló nem adagol
+160*S3 - CAM1 JA nem jelez
+337*Csavarozó nem áll alaphelyzetbe
+161*S18 - RMH JA nem jelez
+338*RfID sérült, távolítsa el
+339*1. Cs.adagoló Csõ 2 HJA nem jelez
+340*1. Cs.adagoló Csõ 2 EJA nem jelez
+341*Nyomtató hibát jelez, vagy nem üzemkész
+342*Nyomtatófej nem tudja felszedni a címkét
+343*Csavarozó 2. pozícionáló asztal hiba
+344*Csavarozó 2. pozícionáló nem üzemkész
+345*2. Csavarozó szár nem megy alaphelyzetbe
+346*2. Csavarozó fej nem megy alaphelyzetbe
+347*CS3MH2 - Manipulátor be HJA nem jelez
+348*CS3MH3 - Manipulátor le FJA nem jelez
+349*CS2MH2 - Fej le AJA nem jelez
+3615*CS2: Sikertelen csavarozás (1.)
+350*CS3MH3 - Manipulátor le AJA nem jelez
+3617*CS3: Sikertelen tárcsa lecsavarozás
+351*2. Cs.adagoló Csõ HJA nem jelez
+352*2. Cs.adagoló Csõ EJA nem jelez
+353*2. Cs.adagoló nem adagol
+162*S19 - CS1 JA nem jelez
+163*S11 - CS2 puffer JA nem jelez
+164*S13 - CS2 JA nem jelez
+165*S15 - 2. M.hely JA nem jelez
+166*S12 - CAM2 JA nem jelez
+167*S7 - Printer JA nem jelez
+168*K6MH3 - Printer EJA nem jelez
+169*Nincs csavar a termékben
+388*S20 - Új MDB fordító JA nem jelez
+630*Hiba: Pad: Durva szivárgás!
+631*Hiba: Pad: Prf 3.1 Megszólalási nyomás
+632*Hiba: Pad: Prf 3.2 Maradó nyomás 2RD2!
+633*Hiba: Pad: PRF 3.2 1RD2 nyomás!
+634*Hiba: Pad: Prf 2.1 Ellenállás hiba A!
+635*Hiba: Pad: Prf 2.1 Ellenállás hiba B!
+636*Hiba: Pad: Durva szivárgás (1RD2 nyomás)!
+637*Hiba: Pad: Durva szivárgás (2RD1 nyomás)!
+638*Hiba: Pad: Durva szivárgás (Diff max )!
+171*Hiba: Pad: Dummy szivárgás 1RD2 szenzor!
+172*Hiba: Pad: Dummy szivárgás 2RD1 szenzor!
+173*Hiba: Pad: Dummy szivárgás 1RD2 Diff!
+642*Hiba: Pad: Durva szivárgás (Diff ref)!
+174*Hiba: Pad: Dummy nyomásemelés hiba!
+175*Hiba: Pad: Dummy EPU teszt 2 bar!
+176*Hiba: Pad: Dummy EPU teszt 10 bar!
+646*Hiba: Pad: Prf 4.2 2RD1 Szivárgás!
+647*Hiba: Pad: Prf 4.1.2 1RD2 Szivárgás!
+648*Hiba: Pad: Prf 4.1.1 1RD2 Szivárgás!
+649*Hiba: Pad: Prf 3.3 1RD1 nyomás!
+650*Hiba: Pad: Prf 3.3 M2 Mágnes feszültség!
+651*Hiba: Pad: Prf 3.3 2RD1 nyomás!
+652*Hiba: Pad: Prf 3.3 Funkció P1 nyomás!
+653*Hiba: Pad: Prf 3.3 Funkció P2 nyomás!
+654*Hiba: Pad: Prf 3.3 Funkció P3 nyomás!
+655*Hiba: Pad: Prf 3.3 Funkció P4 1. nyomás!
+656*Hiba: Pad: Prf 3.3 Funkció P4 2. nyomás!
+657*Hiba: Pad: Prf 3.3 Funkció P4 3. nyomás!
+658*Hiba: Pad: Prf 3.3 Funkció P4 4. nyomás!
+659*Hiba: Pad: Prf 3.3 Funkció P4 - P3 nyomás!
+660*Hiba: Pad: Prf 3.3 Funkció P5 nyomás!
+661*Hiba: Pad: Prf 3.3 Funkció P6 1. nyomás!
+662*Hiba: Pad: Prf 3.3 Funkció P6 2. nyomás!
+663*Hiba: Pad: Prf 3.3 Funkció P6 3. nyomás!
+664*Hiba: Pad: Prf 3.3 Funkció P6 4. nyomás!
+665*Hiba: Pad: Prf 3.3 Funkció P6 - P5 nyomás!
+666*Hiba: Pad: Prf 3.3 Funkció P7 nyomás!
+177*S20 - Új MDB fordító JA folyamatosan jelez
+354*Nyomtató nincs rögzítve
+393*CAM1: Kamera nem válaszol
+394*CAM2: Kamera nem válaszol
+180*1. Mh: Ház leselejtezve
+181*2. Mh: Ház leselejtezve
+395*CAM1: Kamera hiba
+396*CAM2: Kamera hiba
+397*CAM1: Kamera idõtúllépés
+398*CAM2: Kamera idõtúllépés
+186*Címke nem ragadt fel
+3678*CS1: Sikertelen csavarozás (2.)
+3679*CS1: Sikertelen csavarozás (3.)
+3680*CS1: Sikertelen csavarozás (4.)
+3681*CS2: Sikertelen csavarozás (2.)
+3682*CS2: Sikertelen csavarozás (3.)
+3683*CS2: Sikertelen csavarozás (4.)
+355*Nem lehet rugót adagolni a belsõ adagolófejbe
+356*Mérési adatok nem találhatóak. Eredmények naplózása nem lehetséges.
+187*S2 - Új MDB JA nem jelez
+188*Teszt mód. Termék nem leszállítható.
+189*S9 - Printer puffer JA nem jelez
+357*Manipulátor nem vette fel a tárcsát
+190*Ismeretlen termék. Típusbeállítások nem betölthetõek.
+191*Új paletta felhelyezése csak a rossz oldalon engedélyezett!
+692*Hiba: Pad: Prf 3.2 Maradó nyomás 1RD2!
+693*Hiba: Pad: Prf 3.3 Funkció P4x nyomás!
+210*2. Csavarozó szár nem megy véghelyzetbe
+695*Hiba: Pad: Prf 4.1.1 1RD2 Szivárgás (Diff)!
+696*Hiba: Pad: Prf 4.1.2 1RD2 Szivárgás (Diff)!
+192*S1 - L1 puffer JA nem jelez
+359*UVMH1 - Zsilip FJA nem jelez
+360*UVMH1 - Zsilip AJA nem jelez
+361*UV szárító nem üzemkész
+362*UV szárítás nem indul meg
+363*UV szárító belsõ ajtaja nem nyit ki
+193*S21 - 2. Áthordó puffer JA nem jelez
+194*S21 - 2. Áthordó puffer JA folyamatosan jelez
+364*K10MH1 - Zsírzó EJA nem jelez
+365*K10MH2 - Zsírzó fej FJA nem jelez
+366*K10MH2 - Zsírzó fej AJA nem jelez
+195*S22 - 1. Áthordó puffer JA folyamatosan jelez
+367*Csavar váltó MH Poz. 1 JA nem jelez
+368*Csavar váltó MH Poz. 2 JA nem jelez
+369*3. CS.adagoló nem adagol
+370*Szilikonozó kiürült
+371*Szilikonozó hibát jelez
+372*Robot hibát jelez
+373*Robot nem üzemkész
+374*Robot nem indult el
+375*Robot idõtúllépés
+376*Robot Fordít MH AJA nem jelez
+377*Robot Fordít MH FJA nem jelez
+378*OMH9 Rugó átáll BJA nem jelez
+379*OMH9 Rugó átáll KJA nem jelez
+380*Csavar váltó nem megengedett állapotban
+381*Rossz típusú csavar van a csõben, vagy nem esett le a csavar
+382*Kimeneti biztosítéskok egyike nem jelez
+383*Robot Parafin HJA nem jelez
+384*Robot ajtó nincs bezárva
+385*Zsírnyomás nem megfelelõ
+386*Rossz típusú hangtompító csonk van felszerelve
+387*UV lámpa idõtúllépés
+697*Hibás háztípus az olajzóban
+3882*Útmérõ MH1 HJA nem jelez
+389*Útmérõ MH2 nem megy alaphelyzetbe
+390*Útmérõ MH1 EJA nem jelez
+196*PXI Idõzónát állítsa át UTC-re!
+391*Szervó hibát jelez
+392*Szervó nem állt alaphelyzetbe
+399*Kamera: Hálózati idõtúllépés
+400*Tárcsa adagoló MH EJA nem jelez. Távolítsa el a tárcsát a termékbõl!
+401*Tárcsa adagoló MH HJA nem jelez. Távolítsa el a tárcsát a termékbõl!
+402*Tárcsa átesés érzékelõ nem jelez. Távolítsa el a tárcsát a termákbõl!
+1972*S23 - 2F puffer JA folyamatosan jelez
+198*S24 - CAM1 puffer JA folyamatosan jelez
+405*CS1 tár MH EJA nem jelez
+406*CS1 tár tele JA nem jelez
+407*Áthordó 2 JA nem jelez
+408*Áthordó 5 JA nem jelez
+199*S26 - 1B Puffer JA nem jelez
+200*S26 - 1B Puffer JA folyamatosan jelez
+201*S24 - CAM1 puffer JA nem jelez
+412*K13MH1 - 2. Áthordó EJA nem jelez
+413*K12MH1 - 5. Áthordó EJA nem jelez
+202*S25 - CS3 JA nem jelez
+415*K11MH1 - CS3 EJA nem jelez
+416*CS3MH1 FJA nem jelez
+417*3. Csavarozó szár nem megy véghelyzetbe
+203*Áthordó 2 HJA nem jelez
+204*Áthordó 5 HJA nem jelez
+205*Áthordó 1 JA nem jelez
+206*Csonkvizsgáló MH EJA nem jelez
+207*Csonkvizsgáló MH HJA nem jelez
+208*Benyúlás csonkvizsgálat közben
+418*Airmatic adagoló hiba
+419*CS1 tár tele JA folyamatosan jelez

@@ -1,0 +1,13 @@
+C:\Users\J\source\repos\taskUni\taskUni\bin\Debug\netcoreapp3.1\taskUni.exe
+C:\Users\J\source\repos\taskUni\taskUni\bin\Debug\netcoreapp3.1\taskUni.deps.json
+C:\Users\J\source\repos\taskUni\taskUni\bin\Debug\netcoreapp3.1\taskUni.runtimeconfig.json
+C:\Users\J\source\repos\taskUni\taskUni\bin\Debug\netcoreapp3.1\taskUni.runtimeconfig.dev.json
+C:\Users\J\source\repos\taskUni\taskUni\bin\Debug\netcoreapp3.1\taskUni.dll
+C:\Users\J\source\repos\taskUni\taskUni\bin\Debug\netcoreapp3.1\taskUni.pdb
+C:\Users\J\source\repos\taskUni\taskUni\obj\Debug\netcoreapp3.1\taskUni.csprojAssemblyReference.cache
+C:\Users\J\source\repos\taskUni\taskUni\obj\Debug\netcoreapp3.1\taskUni.AssemblyInfoInputs.cache
+C:\Users\J\source\repos\taskUni\taskUni\obj\Debug\netcoreapp3.1\taskUni.AssemblyInfo.cs
+C:\Users\J\source\repos\taskUni\taskUni\obj\Debug\netcoreapp3.1\taskUni.csproj.CoreCompileInputs.cache
+C:\Users\J\source\repos\taskUni\taskUni\obj\Debug\netcoreapp3.1\taskUni.dll
+C:\Users\J\source\repos\taskUni\taskUni\obj\Debug\netcoreapp3.1\taskUni.pdb
+C:\Users\J\source\repos\taskUni\taskUni\obj\Debug\netcoreapp3.1\taskUni.genruntimeconfig.cache
